@@ -1,7 +1,7 @@
 # advanced_Sql
 
 # Case Study #1 - Danny's Diner
-SQL skills gained :
+# SQL skills gained :
 Aggregations
 Joins
 CTEs
