@@ -5,7 +5,7 @@
 # Aggregations
 # Joins
 # CTEs
-Variables
+## Variables
 Window functions
 Ranking (ROW_NUMBER, DENSE_RANK)
 Analytics (LEAD, LAG)
